@@ -18,13 +18,13 @@ organizations:
   url: "https://www.gla.ac.uk/colleges/scienceengineering/research/researchthemes/datascience/geospatialdatascience/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Geographic Information Science, Archaeology,  Network Analysis and Computational Methods in Humanities.
+bio: My research interests include; Geographic Information Science, Spatial Modelling,  Network Analysis and Computational Methods in Humanities.
 
 interests:
-- Geospatial Data Science in Humanities
-- Computational Methods in Archaeology and History
-- Photogrammetry and 3D Modelling
-- Geospatial Content Management Systems
+- Geospatial Data Science 
+- Geospatial Data Visualisation
+- Computational Methods in Archaeology and Humanities
+- Photogrammetry and Spatial Modelling
 
 education:
   courses:
@@ -49,6 +49,9 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/pietgerrits/
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/gerritspj
 - icon: github
   icon_pack: fab
   link: https://github.com/pjgerrits
