@@ -5,10 +5,10 @@
 
 # Appearance
 
-theme: minimal
+theme: forest
 day_night: true
 font: ''
-font_size: L
+font_size: XS
 
 # SEO
 
@@ -20,19 +20,19 @@ twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: test@example.org
-phone: 888 888 88 88
+email: pgerrits15@ku.edu.tr
+phone: ""
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
-  country_code: US
+  # street: 450 Serra Mall
+  city: Cambridge
+  # region: CA
+  # postcode: '94305'
+  country: United Kingdom
+  country_code: UK
 coordinates:
-  latitude: '37.4275'
-  longitude: '-122.1697'
-directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+  latitude: '41.205382'
+  longitude: '29.072605'
+# directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
 office_hours:
   - 'Monday 10:00 to 13:00'
   - 'Wednesday 09:00 to 10:00'

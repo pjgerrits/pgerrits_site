@@ -22,13 +22,13 @@ item:
     align: right
     overlay_color: '#555'  # An HTML color value.
     overlay_img: 'university-of-glasgow-280.png' # Image path relative to your `static/img/` folder.
-    overlay_filter: ""  # Darken the image. Value in range 0-1. 
+    overlay_filter: 0.5  # Darken the image. Value in range 0-1. 
   - title: UrbanOccupationsOETR ERC-funded  Research Project
     content: '+3 Years experience as GIS Specialist and Research Fellow at Koç University'
     align: center
     overlay_color: '#555'  # An HTML color value.
     overlay_img: 'EU_ERC_KU_Merged_Logo.png'  # Image path relative to your `static/img/` folder.
-    overlay_filter: ""  # Darken the image. Value in range 0-1.
+    overlay_filter: 0.5  # Darken the image. Value in range 0-1.
   - title: "Barcın Höyük Excavation"
     content: "Development of a 2.5D Archaeological Spatial information System"
     align: "left"  # Choose `center`, `left`, or `right`.
@@ -36,7 +36,7 @@ item:
   #   Deactivate an option by commenting out the line, prefixing it with `#`.
     overlay_color: "#333"  # An HTML color value.
     overlay_img: 'BH_model1.PNG'  # Image path relative to your `static/img/` folder.
-    overlay_filter: "" # Darken the image. Value in range 0-1.
+    overlay_filter: 0.5 # Darken the image. Value in range 0-1.
   # Call to action button (optional).
   #   Activate the button by specifying a URL and button label below.
   #   Deactivate by commenting out parameters, prefixing lines with `#`.
