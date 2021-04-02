@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: pgerrits.com
+Token: 39c6a6a3492c5d2fd5aca28546012c486f36b1d14fc121a38155ce748717cdfd

@@ -16,18 +16,66 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: 90%
-  icon: r-project
-  icon_pack: fab
-  name: R
-- description: 100%
+- description: ""
+  icon: "globe-europe"
+  icon_pack: fas
+  name: Geographic Information Systems (ArcGIS Pro / QGIS)
+- description: ""
+  icon: database
+  icon_pack: fas
+  name: Database Management
+- description: ""
   icon: chart-line
   icon_pack: fas
-  name: Statistics
-- description: 10%
-  icon: camera-retro
+  name: Dynamic Dashboards
+- description: " "
+  icon: ""
+  icon_pack: ""
+  name: ""
+- description: " "
+  icon: ""
+  icon_pack: ""
+  name: ""
+- description: " "
+  icon: ""
+  icon_pack: ""
+  name: ""
+- description: ""
+  icon: python
+  icon_pack: fab
+  name: Python
+- description: ""
+  icon: code
   icon_pack: fas
-  name: Photography
+  name: SQL
+- description: ""
+  icon: html5
+  icon_pack: fab
+  name: HTML
+- description: " "
+  icon: ""
+  icon_pack: ""
+  name: ""
+- description: " "
+  icon: ""
+  icon_pack: ""
+  name: ""
+- description: " "
+  icon: ""
+  icon_pack: ""
+  name: ""
+- description: ""
+  icon: adobe
+  icon_pack: fas
+  name: Adobe Photoshop
+- description: ""
+  icon: cubes
+  icon_pack: fas
+  name: Agisoft Metashape
+- description: ""
+  icon: language
+  icon_pack: fas
+  name: Dutch, English, German, Turkish, French
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
