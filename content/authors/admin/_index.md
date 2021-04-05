@@ -18,7 +18,7 @@ organizations:
   url: "https://www.gla.ac.uk/colleges/scienceengineering/research/researchthemes/datascience/geospatialdatascience/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include; Geographic Information Science, Spatial Modelling,  Network Analysis and Computational Methods in Humanities.
+bio: My research interests include Geographic Information Science, Archaeology, Network Analysis and Computational Methods in Humanities. In my free time I also enjoy cooking, watching movies or going for a walk.  
 
 interests:
 - Geospatial Data Science 
@@ -78,11 +78,12 @@ user_groups:
 Hello and welcome to my personal website! Here I am posting about my ongoing academic research. 
 My main academic interest is in the use of <span style="color: #4caf50;"> *__geospatial data science__* </span> and computational applications in <span style="color: #4caf50;"> *__geography, humanities, and archaeology.__* </span>
 
-I was first introduced to the significant role of geospatial applications in 2011, during my undergraduate at the <span style="color: #4caf50;"> *__Vrije Universiteit and Wageningen University__* </span> in the Netherlands. Afterwards, I obtained my graduate degree at <span style="color: #4caf50;"> *__Koç Unversity__* </span> in Istanbul, where I utilized my technical skills to support research aimed to document and analyse Turkey’s rich history and archaeological cultural heritage. 
+Currently, I am pursuing a <span style="color: #4caf50;"> *__Ph.D. in Geospatial Data Science at the University of Glasgow__* </span>, focusing on the use of multi-source data (such as historical maps, satelite imagery and digitized archival data) to gain a better understanding of urbanization and accessibility in depopulated areas.
+
+I gained  geospatial applications in 2011, during my undergraduate at the <span style="color: #4caf50;"> *__Vrije Universiteit and Wageningen University__* </span> in the Netherlands. Afterwards, I obtained my graduate degree at <span style="color: #4caf50;"> *__Koç Unversity__* </span> in Istanbul, where I utilized my technical skills to support research aimed to document and analyse Turkey’s rich history and archaeological cultural heritage. 
 
 Over the years I have broadened and diversified my skills and interests by *teaching* <span style="color: #4caf50;"> *__GIS (Geographic Information Systems)__* </span> in archaeology and history, *organize* <span style="color: #4caf50;"> *__summer schools,__* </span> *work in several* <span style="color: #4caf50;"> *__research projects,__* </span> as well as by *participating in a* <span style="color: #4caf50;"> *__ERASMUS+ capacity building project__* </span> in Kufa, Iraq. 
 
 After obtaining my MA I worked as a full-time lead Geospatial Data Scientist and  Research Fellow in an <span style="color: #4caf50;"> *__ERC-funded Horizon 2020 Research Project__* </span> [(UrbanOccupationsOETR)](https://urbanoccupations.ku.edu.tr/) at Koç University. Here, I developed the geographic content management system of the project, and worked on research projects that incorporate <span style="color: #4caf50;"> *__Computer Vision/Machine Learning__* </span> for feature extraction of Historical Maps, <span style="color: #4caf50;"> *__Network Analysis__* </span> and the use of <span style="color: #4caf50;"> *__Geospatial Mobile Survey Applications__* </span> for academic public outreach activities. 
 
-Currently, I am pursuing a <span style="color: #4caf50;"> *__Ph.D. in Geospatial Data Science at the University of Glasgow__* </span>, focusing on the use of historical maps and census data to gain a better understanding of urbanization using geographical variables such as population changes and network accessibility.
 </div>
